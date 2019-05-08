@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="08c34051-dd39-40be-ac8e-e3e550af57ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Middle/templates/Middle/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Middle/templates/Middle/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Middle/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Middle/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Middle/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="222">
+              <caret line="22" column="122" selection-start-line="22" selection-start-column="122" selection-end-line="22" selection-end-column="122" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -239,6 +238,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49885583" visible="true" weight="0.16815476" />
       <window_info id="Structure" order="1" sideWeight="0.5011442" side_tool="true" weight="0.24330357" />
@@ -437,8 +437,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Middle/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="222">
+          <caret line="22" column="122" selection-start-line="22" selection-start-column="122" selection-end-line="22" selection-end-column="122" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>

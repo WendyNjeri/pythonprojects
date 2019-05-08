@@ -20,7 +20,7 @@ class MemberListView(ListView):
     def get_queryset(self):
         query = self.request.GET.get('q')
         if query:
-            return Member.objects.filter(name__icontains=query)| Member.objects.filter(slogan__icontains=query)
+            return Member.objects.filter(name__icontains=query)| Member.objects.filter(residence__icontains=query)| Member.objects.filter(course__icontains=query)
         else:
             return Member.objects.all()
 
